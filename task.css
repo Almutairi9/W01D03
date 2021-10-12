@@ -1,0 +1,11 @@
+.topnav {
+    padding : 3px;
+    background-color :orangered;
+    list-style-type: none;
+    display: inline-block ;
+    
+  }
+  
+ body {
+ width: 65%;  
+  } 

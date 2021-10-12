@@ -1,0 +1,21 @@
+h1, h2 {
+  background-color: orangered;
+  text-align: center;
+}
+p {
+  font-family: "Times New Roman";
+  color: maroon;
+}
+.imgDiv {
+ width: 300px;
+  margin: auto;
+}
+
+.imgDiv img {
+  width: 300px;
+  height: 300px;
+  
+}
+body {
+  margin: 2%;
+}
