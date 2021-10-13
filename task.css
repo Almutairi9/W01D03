@@ -1,11 +1,23 @@
-.topnav {
-    padding : 3px;
-    background-color :orangered;
-    list-style-type: none;
-    display: inline-block ;
-    
-  }
+ 
+ nav ul {
+  list-style-type: none;
   
- body {
- width: 65%;  
-  } 
+}
+nav ul li {
+  float: left;
+  width: max-content;
+}
+nav ul li a {
+  padding: 3px;
+  text-decoration: none; /* no underline */
+  background-color:  orangered; /* pale bluish white */
+  color: black; /* dark blue */
+}
+nav ul li a:hover, nav ul li a:focus {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+}
+.div{
+
+}
